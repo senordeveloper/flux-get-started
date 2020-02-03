@@ -3,4 +3,4 @@ kind: Namespace
 metadata:
   labels:
     name: test1
-  name: tes1
+  name: test1
